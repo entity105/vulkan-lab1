@@ -1,3 +1,10 @@
 build-*/
 shaders/*.spv
 imgui.ini
+build-debug/
+build-release/
+build/
+out/
+.vs/
+*.user
+*.spv
